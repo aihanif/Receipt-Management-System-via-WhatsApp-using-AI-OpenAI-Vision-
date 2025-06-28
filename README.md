@@ -8,7 +8,7 @@ This is an intelligent receipt digitization system that integrates WhatsApp, Ope
 
 🧠 Key Features
 📲 WhatsApp Integration via Twilio
-1)Users can send receipt images directly via WhatsApp.
+#1)Users can send receipt images directly via WhatsApp.
 
 ![whasap resit](https://github.com/user-attachments/assets/cf74d89d-682e-451e-8683-d55e08ce5505)
 

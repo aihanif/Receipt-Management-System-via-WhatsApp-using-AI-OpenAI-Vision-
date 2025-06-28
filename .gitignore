@@ -1,0 +1,46 @@
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === PHP Cache / Logs ===
+*.log
+*.cache
+*.tmp
+*.bak
+*.old
+*.swp
+*~
+
+# === Config / Secrets ===
+config.php
+.env
+
+# === Uploaded / Temporary Files ===
+receipt.*
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+
+# === Twilio Downloaded Media ===
+*.mp4
+*.pdf
+
+# === Composer (future) ===
+/vendor/
+/composer.lock
+
+# === NodeJS (if frontend expanded later) ===
+/node_modules/
+/dist/
+/build/
+
+# === IDE / Editor Config ===
+.vscode/
+.idea/
+*.sublime*
+
+# === OS Specific ===
+ehthumbs.db
+Desktop.ini

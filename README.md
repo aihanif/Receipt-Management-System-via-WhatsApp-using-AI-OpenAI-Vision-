@@ -62,11 +62,11 @@ Only supports image formats: .jpg, .jpeg, .png, .webp, .gif.
 Requires OpenAI API Key with GPT-4o access.
 
 🚀 Getting Started
-1. Clone Repo
-git clone https://github.com/aihanif/Receipt-Management-System-via-WhatsApp-using-AI-OpenAI-Vision-.git
-2. Setup config.php
-3. Setup Webhook URL in Twilio
-https://yourdomain.com/WhatsappWebhook/whatsapp_webhook.php
+1.	Clone Repo git clone https://github.com/aihanif/Receipt-Management-System-via-WhatsApp-using-AI-OpenAI-Vision-.git
+2.	Setup config.php
+3.	Setup Open Ai https://platform.openai.com/docs/overview
+4.	Setup Webhook URL in Twilio https://yourdomain.com/WhatsappWebhook/whatsapp_webhook.php
+
 
 🔐 Security Tips
 Ensure config.php is never exposed publicly.
